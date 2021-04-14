@@ -161,3 +161,29 @@ body {
   padding-top: 15em;
   margin-left: 150px;
 }
+
+/*-- Merch styling-- */
+.merch-title {
+  margin-left: 530px;
+  margin-top: 10em;
+  display: inline;
+  border-radius: 40px;
+}
+
+.card {
+  margin-top: 50px;
+  border-radius: 30px;
+}
+
+.card img {
+  height: 15em;
+  border-radius: 30px;
+  box-shadow: 0px 23px 54px -38px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 23px 54px -38px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 23px 54px -38px rgba(0, 0, 0, 0.75);
+}
+
+.ticketing {
+  margin-top: -50px;
+  padding-bottom: 100px;
+}
