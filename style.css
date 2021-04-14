@@ -12,7 +12,7 @@ body {
   left: 0;
   width: 100%;
   height: 47em;
-  background: #2c3e50;
+  /* background: #2c3e50; */
   transform: skewY(0deg);
   transform-origin: top right;
 }
@@ -29,10 +29,12 @@ body {
 }
 
 .scroll {
+  color: black;
   background-color: white;
 }
 
 .navbar-nav {
+  color: white;
   margin-left: auto;
   margin-right: 70px;
 }
@@ -94,6 +96,7 @@ body {
   padding-top: 40px;
   margin-left: auto;
   margin-right: -31em;
+  color: white;
 }
 
 /*-- Partner styling-- */
@@ -152,4 +155,9 @@ body {
 .contact-form {
   margin-right: 100px;
   margin-top: -70px;
+}
+
+.about {
+  padding-top: 15em;
+  margin-left: 150px;
 }
