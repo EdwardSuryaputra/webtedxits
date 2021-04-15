@@ -187,3 +187,23 @@ body {
   margin-top: -50px;
   padding-bottom: 100px;
 }
+
+/*-- Carousel styling-- */
+.carousel {
+  margin-top: 18em;
+  position: absolute;
+  margin-left: 44em;
+}
+
+.carousel h1 {
+  color: red;
+}
+
+.carousel .container {
+  align-items: center;
+  width: 500px;
+}
+
+.carousel-inner {
+  text-align: center;
+}
