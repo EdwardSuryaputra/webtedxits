@@ -101,7 +101,7 @@ body {
 
 /*-- Partner styling-- */
 .partner {
-  padding-top: 25em;
+  padding-top: 75em;
   margin-left: 150px;
 }
 
@@ -206,4 +206,10 @@ body {
 
 .carousel-inner {
   text-align: center;
+}
+
+.first-page {
+  background-image: url("assets/1x/Asset 4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
